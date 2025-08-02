@@ -10,7 +10,7 @@ The LFG crew has dedicated significant time and resources to developing and main
 
 
 ## Compensation Requested
-We request approval for the full value of our contributions of 175 billion Qubic ($437,500 USD at $2,500 per billion) based on 2,000 hours of work by our three-member team over seven months (2.4–3.57 hours/day/person) averaged down at $125/hour, plus a 75% ($187,500) premium for strategic and ongoing purposes (e.g. Hardware,Software Updates, Support…). 
+We request approval for the full value of our contributions of 175 billion Qubic ($437,500 USD at $2,500 per billion) based on 2,000 hours of work by our three payed members over seven months (2.4–3.57 hours/day/person) averaged down at $125/hour, plus a 75% ($187,500) premium for strategic and ongoing purposes (e.g. Hardware,Software Updates, Support…). 
 (Supporting Link about the hourly rate in the Disclaimer section) 
 
 ## Markup breakdown:
