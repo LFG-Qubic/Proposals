@@ -35,9 +35,9 @@ Send 175 billion Qubic to the LFG crew’s address `LFGCREWZGFRGGCYEWHGZWFOMAUVC
 #### Project Summary
 The LFG Bot is a Discord utility designed to streamline information access for users. It aggregates data from various parts of an ecosystem into a centralized hub, allowing users to retrieve relevant information quickly and efficiently using simple commands. This eliminates the need to navigate multiple sources, making the experience more user-friendly and accessible for everyone, regardless of their familiarity with the ecosystem.
 #### KPIs
-2,000 unique users
-26,000 total interactions since launch
-Provides visibility to smaller developers and creators.
+* 2,000 unique users
+* 26,000 total interactions since launch
+* Provides visibility to smaller developers and creators.
 #### Impact
 Simplifies user access to ecosystem data, fostering inclusivity and engagement.
 
