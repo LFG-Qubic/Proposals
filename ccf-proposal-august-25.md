@@ -17,7 +17,7 @@ We request approval for the full value of our contributions of 175 billion Qubic
 * Hardware and Miscellaneous (5%)
 * Network/Exchange Support (10%): Technical support for Qubic network stability and multiple exchange integrations.
 * Ongoing Support (15%): Full support and updates for all projects for 12 months.
-* Risk of Pre-Payment (15%): Covering the risk of receiving Qubic upfront, which may lose value due to market volatility.
+* Risk of Pre-Payment (15%): The risk of completing work and incurring high upfront costs without assurance of compensation.
 * New Projects and Partnerships (30%): Reinvesting 30% into new initiatives and partnerships to drive ecosystem growth.
 
 ## Proposal
