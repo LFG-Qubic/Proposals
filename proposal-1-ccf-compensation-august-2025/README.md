@@ -3,25 +3,25 @@
 We, the LFG Crew, are a dedicated group of developers and community builders working to expand the Qubic ecosystem since September 2024. Our efforts go beyond development, encompassing initiatives to secure exchange listings, coordinate external projects, and attract new developers to the ecosystem.
 Guided by our philosophy of "Deliver First, Then Get Compensated," we prioritize delivering value to Qubic, ensuring our contributions align with the project's long-term success rather than short-term gains.
 
-We are requesting approval from the CCF to compensate the LFG crew with 83 billion Qubic for the significant contributions to the ecosystem through the development and maintenance of four critical projects: LFG Discord Bot, Qubic Whale Alert, Monero Trading Bot, and Qubictrade.com. These projects have driven user engagement, transparency, and value creation within the Qubic ecosystem, as demonstrated by our KPIs. Below, we outline each project’s impact and justify the proposed compensation.
+We are requesting approval from the CCF to compensate the LFG crew with 60 billion Qubic for the significant contributions to the ecosystem through the development and maintenance of four critical projects: LFG Discord Bot, Qubic Whale Alert, Monero Trading Bot, and Qubictrade.com. These projects have driven user engagement, transparency, and value creation within the Qubic ecosystem, as demonstrated by our KPIs. Below, we outline each project’s impact and justify the proposed compensation.
 
-The LFG crew has dedicated significant time and resources to developing and maintaining these projects, which have collectively enhanced user experience, increased transaction transparency, and driven Qubic burning to reduce total supply. The proposed 83 billion Qubic for $200,000 USD ($2,400 per B) compensation reflects our contributions to date.
+The LFG crew has dedicated significant time and resources to developing and maintaining these projects, which have collectively enhanced user experience, increased transaction transparency, and driven Qubic burning to reduce total supply. The proposed 60 billion Qubic for $180,000 USD ($3,000 per B) compensation reflects our contributions to date.
 
 
 
 ## Compensation Requested
-We request approval for the full value of our contributions of 83 billion Qubic ($200,000 USD at $2,400 per billion) based on ~2,000 hours of work by our three payed members over seven months (2.4–3.57 hours/day/person) averaged down at $100/hour.
+We request approval for the full value of our contributions of 60 billion Qubic ($180,000 USD at $3,000 per billion) based on ~2,000 hours of work by our three payed members over seven months (2.4–3.57 hours/day/person) averaged down at $90/hour.
 
 
 
 ## Proposal
 Based on the LFG crew’s contributions and the demonstrated impact of their projects, we propose the following for the Qubic computors consideration:
 
-Send 83 billion Qubic to the LFG crew’s address `LFGCREWZGFRGGCYEWHGZWFOMAUVCDRWVAPWMLCJMPDFDTPKYKBDHFLBFRKMO`
+Send 60 billion Qubic to the LFG crew’s address `LFGCREWZGFRGGCYEWHGZWFOMAUVCDRWVAPWMLCJMPDFDTPKYKBDHFLBFRKMO`
 
 > Option 0: Do not approve compensation at this time.
 
-> Option 1: Approve compensation of 83 billion Qubic
+> Option 1: Approve compensation of 60 billion Qubic
 
 ## Delivered Projects 
 
@@ -99,21 +99,21 @@ Total allocation percentage: 22,64%
 我们，LFG Crew，是一支自2024年9月以来致力于扩展 Qubic 生态系统的开发者和社区建设者团队。我们的努力不仅限于开发，还包括争取交易所上市、协调外部项目以及吸引新开发者加入生态系统。
 我们秉持“先交付，后补偿”的理念，优先为 Qubic 创造价值，确保我们的贡献与项目的长期成功保持一致，而不是追求短期利益。
 
-我们请求 CCF 批准向 LFG Crew 支付 830 亿 Qubic，以表彰我们通过开发和维护四个关键项目对生态系统的重大贡献：LFG Discord 机器人、Qubic Whale Alert、Monero 交易机器人和 Qubictrade.com。这些项目通过我们的 KPI 数据展示了其在用户参与度、交易透明度和价值创造方面的推动作用。以下是我们对每个项目影响的概述以及补偿请求的理由。
+我们请求 CCF 批准向 LFG Crew 支付 600 亿 Qubic，以表彰我们通过开发和维护四个关键项目对生态系统的重大贡献：LFG Discord 机器人、Qubic Whale Alert、Monero 交易机器人和 Qubictrade.com。这些项目通过我们的 KPI 数据展示了其在用户参与度、交易透明度和价值创造方面的推动作用。以下是我们对每个项目影响的概述以及补偿请求的理由。
 
-LFG Crew 在开发和维护这些项目上投入了大量时间和资源，这些项目共同提升了用户体验、增加了交易透明度并推动了 Qubic 的燃烧以减少总供应量。提议的 830 亿 Qubic（按 200,000 美元计算，2,400 美元/十亿 Qubic）补偿反映了我们迄今为止的贡献。
+LFG Crew 在开发和维护这些项目上投入了大量时间和资源，这些项目共同提升了用户体验、增加了交易透明度并推动了 Qubic 的燃烧以减少总供应量。提议的 600 亿 Qubic（按 180,000 美元计算，3,000 美元/十亿 Qubic）补偿反映了我们迄今为止的贡献。
 
 ## 请求的补偿
-我们请求批准基于约 2,000 小时工作（由三名受薪成员在七个月内完成，平均每天每人 2.4–3.57 小时）的全部贡献价值，支付 830 亿 Qubic（200,000 美元，按 2,400 美元/十亿 Qubic计算），按平均 100 美元/小时计算。
+我们请求批准基于约 2,000 小时工作（由三名受薪成员在七个月内完成，平均每天每人 2.4–3.57 小时）的全部贡献价值，支付 600 亿 Qubic（180,000 美元，按 3,000 美元/十亿 Qubic计算），按平均 90 美元/小时计算。
 
 ## 提案
 基于 LFG Crew 的贡献及其项目的显著影响，我们提议 Qubic 计算者考虑以下选项：
 
-将 830 亿 Qubic 发送至 LFG Crew 的地址 `LFGCREWZGFRGGCYEWHGZWFOMAUVCDRWVAPWMLCJMPDFDTPKYKBDHFLBFRKMO`
+将 600 亿 Qubic 发送至 LFG Crew 的地址 `LFGCREWZGFRGGCYEWHGZWFOMAUVCDRWVAPWMLCJMPDFDTPKYKBDHFLBFRKMO`
 
 > 选项 0：目前不批准补偿。
 >
-> 选项 1：批准 830 亿 Qubic 的补偿。
+> 选项 1：批准 600 亿 Qubic 的补偿。
 
 ## 已交付项目
 
